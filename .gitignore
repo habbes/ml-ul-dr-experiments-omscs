@@ -1,0 +1,6 @@
+__pycache__
+.ipynb_checkpoint
+*checkpoint.ipynb
+*checkpoint.py
+.DS_Store
+.pyc
